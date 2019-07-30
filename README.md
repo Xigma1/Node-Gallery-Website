@@ -11,7 +11,7 @@ Requirements :
 
 To set up :
 - Clone repo
-  - Run `npm install express body-parser ejs uuid multer sharp`
+- Run `npm install express body-parser ejs uuid multer sharp`
 - Run `npm install nodemon`
 - To launch open CMD or Node, then run `npm start`
 
